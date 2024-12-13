@@ -1,0 +1,80 @@
+{
+    "Bole": {
+        "kfc": {
+            "menu_kfc": {
+                "CHICKEN": 50,
+                "SANDWICH": 45,
+                "POTATOES": 20,
+                "BROWNIE": 12
+            }
+        },
+        "burger_king": {
+            "menu_big_burger": {
+                "CLASSIC_BURGER": 60,
+                "CHEESE_BURGER": 70,
+                "ONION_RINGS": 35,
+                "MILKSHAKE": 29
+            }
+        },
+        "krispy_kreme": {
+            "menu_krispy_kreme": {
+                "GLAZED_DONUT": 12,
+                "CHOCOLATE_DONUT": 14,
+                "COFFEE": 24,
+                "ICED_COFFEE": 34
+            }
+        }
+    },
+    "Koye": {
+        "pizza_hut": {
+            "menu_pizza_hut": {
+                "MARGHERITA_PIZZA": 10,
+                "PEPPERONI_PIZZA": 12,
+                "GARLIC_BREAD": 24,
+                "SOFT_DRINK": 22
+            }
+        },
+        "mcdonalds": {
+            "menu_mcdonalds": {
+                "BIG_MAC": 80,
+                "CHICKEN_MCNUGGETS": 40,
+                "FRIES": 49,
+                "MCFLURRY": 32
+            }
+        },
+        "starbucks": {
+            "menu_starbucks": {
+                "CAFFE_LATTE": 32,
+                "CAPPUCCINO": 9,
+                "BLUEBERRY_MUFFIN": 79,
+                "CROISSANT": 43
+            }
+        }
+    },
+    "24": {
+        "nandos": {
+            "menu_nandos": {
+                "PERI_CHICKEN": 23,
+                "SPICY_RICE": 30,
+                "GARLIC_BREAD": 20,
+                "SOFT_DRINK": 10
+            }
+        },
+        "kfc": {
+            "menu_kfc": {
+                "FRIED_CHICKEN": 54,
+                "CHICKEN_SANDWICH": 44,
+                "COLESLAW": 19,
+                "ICE_CREAM": 24
+            }
+        },
+        "chicken_lickin": {
+            "menu_chicken_lickin": {
+                "HOT_WINGS": 28,
+                "CHICKEN_BURGER": 60,
+                "FRENCH_FRIES": 25,
+                "SODA": 15
+            }
+        }
+    }
+}
